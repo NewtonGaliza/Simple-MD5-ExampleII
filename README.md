@@ -1,1 +1,1 @@
-Receive a file and, create a file with a md5.
+Receive a file and, create another file with a md5.
