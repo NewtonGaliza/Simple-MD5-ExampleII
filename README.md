@@ -1,1 +1,1 @@
-# Simple-MD5-ExampleII
+Receive a file and, create a file with a md5.
